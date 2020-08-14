@@ -1,4 +1,4 @@
-# useCounter Hokk (Contador)
+# useCounter Hook (Contador)
 
 Ejemlo de uso:
 
